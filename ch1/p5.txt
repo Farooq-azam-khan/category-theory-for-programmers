@@ -1,0 +1,4 @@
+When is a directed graph a category?
+
+For a category to exist there must be an identity arrow for each node in the directed graph. 
+Secondly, the directed graph must be symmetric (i.e. an arrow from A to B must also have a complementing arrow from B to A).

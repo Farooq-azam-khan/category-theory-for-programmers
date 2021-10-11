@@ -1,0 +1,5 @@
+Is Facebook a category, with people as objects and friendships as
+morphisms?
+
+No. Suppose that person A is friends with person B and person B is friends with person C. 
+This does not mean that person A is friends with person C. Composition does not exists thus not a category. 

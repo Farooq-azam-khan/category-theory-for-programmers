@@ -1,0 +1,12 @@
+Is the world-wide web a category in any sense? Are links morphisms?
+
+Yes, each link is an object and the arrows (i.e. functions) are the connections to each website. 
+The act of clicking on a link takes you to another website. 
+There is composition present as well. 
+
+Let 'A', 'B', 'C' be websites respectively 
+
+A -> B 
+B -> C 
+
+Thus we can go from A to C through B. 
